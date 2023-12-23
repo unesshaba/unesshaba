@@ -8,7 +8,7 @@ Sharing my everyday life as a senior web developer junior Twitch streamer Always
 
 * 🌍  I'm based in Morocco 🇲🇦
 * ✉️  You can contact me at [Younessaithaba63@gmail.com](mailto:Younessaithaba63@gmail.com)
-* 🧠  I'm learning Angular and Spring Boot
+* 🧠  I'm Full-Stack developer ( Angular\React | Spring )
 
 <a href="https://www.github.com/unesshaba" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/unesshaba?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
